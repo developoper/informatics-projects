@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\bin\Debug\IM-Lab-work-2.exe.config
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\bin\Debug\IM-Lab-work-2.exe
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\bin\Debug\IM-Lab-work-2.pdb
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM-Lab-work-2.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM_Lab_work_2.authorizationForm.resources
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM_Lab_work_2.eventForm.resources
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM_Lab_work_2.organiserForm.resources
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM_Lab_work_2.Properties.Resources.resources
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM-Lab-work-2.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM-Lab-work-2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM-Lab-work-2.exe
+D:\Microsoft Visual Studio\source\repos\IM-Lab-work-2\IM-Lab-work-2\obj\Debug\IM-Lab-work-2.pdb
